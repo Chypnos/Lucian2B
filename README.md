@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++, Python, JAVA, Javascript
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on - https://www.linkedin.com/in/botez-lucian-50175a70/
-- 📫 How to reach me -
+- 📫 How to reach me - https://www.linkedin.com/in/botez-lucian-50175a70/
 
 <!---
 Lucian2B/Lucian2B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
