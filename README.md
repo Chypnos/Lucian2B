@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucian2B
 - 👀 I’m interested in C/C++, Python, JAVA, Javascript
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on -
+- 💞️ I’m looking to collaborate on - https://www.linkedin.com/in/botez-lucian-50175a70/
 - 📫 How to reach me -
 
 <!---
